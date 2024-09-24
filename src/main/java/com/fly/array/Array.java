@@ -1,4 +1,4 @@
-package array;
+package com.fly.array;
 
 import java.util.concurrent.ThreadLocalRandom;
 

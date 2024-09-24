@@ -1,4 +1,4 @@
-package linkedlist;
+package com.fly.linkedlist;
 
 public class DoublyLinkedList {
     public static void main(String[] args) {

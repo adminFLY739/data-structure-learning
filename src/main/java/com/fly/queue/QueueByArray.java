@@ -1,4 +1,4 @@
-package queue;
+package com.fly.queue;
 
 public class QueueByArray {
     private int[] arr;

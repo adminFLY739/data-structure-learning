@@ -1,4 +1,4 @@
-package stack;
+package com.fly.stack;
 
 import com.fly.linkedlist.SinglyListNode;
 

@@ -1,4 +1,4 @@
-package queue;
+package com.fly.queue;
 
 import com.fly.linkedlist.SinglyListNode;
 

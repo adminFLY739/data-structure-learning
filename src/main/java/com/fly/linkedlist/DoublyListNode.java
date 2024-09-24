@@ -1,4 +1,4 @@
-package linkedlist;
+package com.fly.linkedlist;
 
 public class DoublyListNode {
     int value;

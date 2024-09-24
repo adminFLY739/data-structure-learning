@@ -1,4 +1,4 @@
-package queue;
+package com.fly.queue;
 
 import java.util.LinkedList;
 import java.util.Queue;
