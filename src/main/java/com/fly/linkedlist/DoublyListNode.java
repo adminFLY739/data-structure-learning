@@ -1,11 +1,11 @@
 package com.fly.linkedlist;
 
 public class DoublyListNode {
-    int value;
-    DoublyListNode pre;
-    DoublyListNode next;
+    public int value;
+    public DoublyListNode pre;
+    public DoublyListNode next;
 
-    DoublyListNode(int v) {
+    public DoublyListNode(int v) {
         value = v;
     }
 }
